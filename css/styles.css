@@ -24,6 +24,9 @@ body{
   background-position: center;
   color:black;
   position: relative;
-  bottom:100px;
+  bottom:120px;
   font-family: 'Abril Fatface', cursive;
+}
+#butter{
+  margin-bottom: 20px;
 }
