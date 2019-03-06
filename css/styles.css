@@ -31,5 +31,32 @@ body{
   margin-bottom: 20px;
 }
 .lead{
-  color:#2B3305;jbu
+  color:#2B3305;
+}
+.footer {
+  height:300px;
+  width: 100%;
+  background-color:#ced6e0;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+}
+#truck{
+  position: relative;
+  float:left;
+  top: 80px;
+  left: 100px;
+}
+.footer{
+  display:flex;
+  align-items:center;
+}
+.icon-middle h3{
+  display:inline-block;
+}
+.icon-middle i{
+  padding:0 6px;
+}
+#footer2{
+  background-color:#2f3542;
 }
