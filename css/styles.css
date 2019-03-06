@@ -44,3 +44,28 @@ body{
 #footer2{
   background-color:#2f3542;
 }
+#icon{
+  height:300px;
+  width:100%;
+  background-color: #dfe4ea;
+}
+.last{
+  color:#650000;
+  text-align:center;
+  padding-top:64px;
+}
+#one, #two, #three{
+  color:#000000;
+  float:left;
+  padding-top:40px;
+}
+.last p{
+  padding-top:70px;
+}
+.one, .two{
+  border-right:2px solid #000;
+}
+#detail1, #detail2, #detail3{
+  margin-top:-80px;
+  color:gray;
+}
